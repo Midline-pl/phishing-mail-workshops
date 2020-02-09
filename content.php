@@ -121,7 +121,7 @@ return '  <!DOCTYPE
                 ><span
                     style="display:block;font:500 19px/1.3 Roboto,sans-serif;margin:0 0 8px"
                     class="fallback"
-                  >Dzień dobry Arkadiusz Orlik. </span>Prosimy o uregulowanie należności.</h1>
+                  >Dzień dobry '.(isset($_GET["who"]) ? $_GET["who"] : 'Arkadiusz Orlik').'. </span>Prosimy o uregulowanie należności.</h1>
                 <p
                   style="margin:8px 0 0;padding:0;font:12px/16px \'Open Sans\', sans-serif;color:#767676;"
                   class="fallback"
