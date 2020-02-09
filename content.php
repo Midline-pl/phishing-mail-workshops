@@ -125,7 +125,7 @@ return '  <!DOCTYPE
                 <p
                   style="margin:8px 0 0;padding:0;font:12px/16px \'Open Sans\', sans-serif;color:#767676;"
                   class="fallback"
-                >Każdy e-mail transakcyjny od Allegro zawiera Twoje imię, nazwisko.</p>
+                >Każdy e-mail transakcyjny od Allegro zawiera Twoje imię i nazwisko.</p>
               </td>
             </tr>
             <tr>
